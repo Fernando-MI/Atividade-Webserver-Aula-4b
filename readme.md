@@ -24,3 +24,8 @@ Pagina de erro:
 Pagina correta:
 
 ![Demonstrando aplicação em LAN](./imagens/fotoDoisPC2.jpeg)
+
+## Integrantes 🙅‍♂️
+| [Arthur Osaka Hoshino](https://github.com/ArthurHoshino)  
+| [Fernando Manso Isaac]()  
+| [João Henrique Guimarães da Silva](https://github.com/joao591)
