@@ -27,5 +27,7 @@ Pagina correta:
 
 ## Integrantes 🙅‍♂️
 | [Arthur Osaka Hoshino](https://github.com/ArthurHoshino)  
-| [Fernando Manso Isaac]()  
+| [Bruno Koji Nakao](https://github.com/brunokojota)  
+| [Fernando Manso Isaac](https://github.com/Fernando-MI)  
 | [João Henrique Guimarães da Silva](https://github.com/joao591)
+
